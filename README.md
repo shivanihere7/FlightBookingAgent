@@ -18,11 +18,11 @@ step 3: now run the file using api server by using the below command:
 cd "C:\Users\Username\OneDrive\Desktop"
 uvicorn flight_agent:app --reload
 
-NOTE: change the address according to where you are storing the flight_agent.py file i have store it in the desktop so i have used that address.
+NOTE: change the address according to where you are storing the flight_agent.py file i have stored it in the desktop, so i have used that address.
 
-step 4: In command prompt u will see something like this
+step 4: In command prompt you will find something like this
  "Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)"
-ctrl+click on the server link/address iit will redirect you to some page then in the web address add "/docs" at the last then you will the flight booking Agent API page.
+ctrl+click on the server link/address iit will redirect you to some page then in the web address add "/docs" at last you will find the flight booking Agent API page.
 
 Clone the repo and then execute in your profile:
    ```bash
